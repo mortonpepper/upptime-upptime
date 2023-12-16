@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.digitalzephyr.com.ico",
     "slug": "dz-media",
     "status": "down",
-    "uptime": "1.33%",
-    "uptimeDay": "1.33%",
-    "uptimeWeek": "1.33%",
-    "uptimeMonth": "1.33%",
-    "uptimeYear": "1.33%",
+    "uptime": "1.23%",
+    "uptimeDay": "1.23%",
+    "uptimeWeek": "1.23%",
+    "uptimeMonth": "1.23%",
+    "uptimeYear": "1.23%",
     "time": 5566,
     "timeDay": 5566,
     "timeWeek": 5566,
     "timeMonth": 5566,
     "timeYear": 5566,
     "dailyMinutesDown": {
-      "2023-12-16": 533
+      "2023-12-16": 581
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bama.design",
     "icon": "https://icons.duckduckgo.com/ip3/bama.design.ico",
     "slug": "bama",
-    "status": "up",
-    "uptime": "86.70%",
-    "uptimeDay": "86.70%",
-    "uptimeWeek": "86.70%",
-    "uptimeMonth": "86.70%",
-    "uptimeYear": "86.70%",
+    "status": "down",
+    "uptime": "90.00%",
+    "uptimeDay": "90.00%",
+    "uptimeWeek": "90.00%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "90.00%",
     "time": 2603,
     "timeDay": 2603,
     "timeWeek": 2603,
     "timeMonth": 2603,
     "timeYear": 2603,
     "dailyMinutesDown": {
-      "2023-12-16": 72
+      "2023-12-16": 59
     }
   },
   {

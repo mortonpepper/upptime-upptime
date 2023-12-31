@@ -16,7 +16,7 @@
     "timeMonth": 2265,
     "timeYear": 2265,
     "dailyMinutesDown": {
-      "2023-12-31": 1358,
+      "2023-12-31": 1366,
       "2023-12-30": 1389,
       "2023-12-29": 1420,
       "2023-12-28": 1440,
@@ -39,7 +39,7 @@
     "url": "https://bama.design",
     "icon": "https://icons.duckduckgo.com/ip3/bama.design.ico",
     "slug": "bama",
-    "status": "up",
+    "status": "down",
     "uptime": "85.05%",
     "uptimeDay": "92.97%",
     "uptimeWeek": "86.19%",
@@ -47,7 +47,7 @@
     "uptimeYear": "85.05%",
     "time": 2547,
     "timeDay": 2235,
-    "timeWeek": 2278,
+    "timeWeek": 2289,
     "timeMonth": 2547,
     "timeYear": 2547,
     "dailyMinutesDown": {
@@ -82,7 +82,7 @@
     "uptimeYear": "100.00%",
     "time": 78,
     "timeDay": 65,
-    "timeWeek": 82,
+    "timeWeek": 86,
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {}

@@ -6,7 +6,7 @@
     "slug": "dz-media",
     "status": "down",
     "uptime": "1.26%",
-    "uptimeDay": "4.23%",
+    "uptimeDay": "2.04%",
     "uptimeWeek": "1.53%",
     "uptimeMonth": "1.26%",
     "uptimeYear": "1.26%",
@@ -16,7 +16,7 @@
     "timeMonth": 2516,
     "timeYear": 2516,
     "dailyMinutesDown": {
-      "2024-01-14": 239,
+      "2024-01-14": 291,
       "2024-01-13": 1378,
       "2024-01-12": 1433,
       "2024-01-11": 1420,
@@ -53,12 +53,12 @@
     "url": "https://bama.design",
     "icon": "https://icons.duckduckgo.com/ip3/bama.design.ico",
     "slug": "bama",
-    "status": "up",
-    "uptime": "91.52%",
-    "uptimeDay": "86.91%",
+    "status": "down",
+    "uptime": "91.61%",
+    "uptimeDay": "86.90%",
     "uptimeWeek": "85.63%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "91.52%",
+    "uptimeMonth": "91.61%",
+    "uptimeYear": "91.61%",
     "time": 2649,
     "timeDay": 2620,
     "timeWeek": 2698,
@@ -82,7 +82,7 @@
       "2023-12-31": 101,
       "2023-12-30": 248,
       "2023-12-29": 187,
-      "2023-12-28": 217
+      "2023-12-28": 183
     }
   },
   {
